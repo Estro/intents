@@ -1,0 +1,37 @@
+{
+    "name": "common-accept",
+    "entries": [{
+        "value": "yes",
+        "synonyms": ["yes"]
+    }, {
+        "value": "yup",
+        "synonyms": ["yup", "yep", "yup!", "yep!"]
+    }, {
+        "value": "sure",
+        "synonyms": ["sure"]
+    }, {
+        "value": "of course",
+        "synonyms": ["of course"]
+    }, {
+        "value": "sounds fun",
+        "synonyms": ["sounds fun"]
+    }, {
+        "value": "lets do it",
+        "synonyms": ["let's do it", "lets do it", "for shizzle"]
+    }, {
+        "value": "yeah",
+        "synonyms": ["yeah"]
+    }, {
+        "value": "go on then",
+        "synonyms": ["go on then"]
+    }, {
+        "value": "ok then",
+        "synonyms": ["ok then"]
+    },{
+        "value": "ok",
+        "synonyms": ["ok", "kk", "k"]
+    },{
+        "value": "cool",
+        "synonyms": ["cool", "ok cool"]
+    }]
+}

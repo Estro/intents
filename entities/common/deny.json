@@ -1,0 +1,79 @@
+{
+    "name": "common-deny",
+    "entries": [{
+        "value": "no",
+        "synonyms": ["no", "nope", "NO!", "no!", "no way", "no way!", "no way, José", "no siree", "no sir", "no madam", "hell no", "hells no", "eer no", "god no", "sorry, no", "na", "naw", "GTFO"]
+    }, {
+        "value": "no thank you",
+        "synonyms": ["no thank you", "no, thank you", "no thanks", "no but thanks", "no, but thanks!", "thanks, but no thanks"]
+    }, {
+        "value": "not today",
+        "synonyms": ["not today", "not today thanks", "not now"]
+    }, {
+        "value": "not for me",
+        "synonyms": ["not for me", "thats not for me", "that's not for me", "that is not for me"]
+    }, {
+        "value": "uh-uh",
+        "synonyms": ["uh-uh", "uh uh"]
+    }, {
+        "value": "nay",
+        "synonyms": ["nay", "nay!"]
+    }, {
+        "value": "nix",
+        "synonyms": ["nix", "nix!", "nixie", "nixy", "nixey"]
+    }, {
+        "value": "nah",
+        "synonyms": ["nah", "no, nah", "no nah"]
+    }, {
+        "value": "negative",
+        "synonyms": ["negative", "negative sir", "that's a negative", "thats a negative", "that is a negative"]
+    }, {
+        "value": "veto",
+        "synonyms": ["veto", "i forbid", "not on my watch"]
+    }, {
+        "value": "out of the question",
+        "synonyms": ["out of the question", "thats out of the question", "that is out of the question", "that's out of the question"]
+    }, {
+        "value": "not on your life",
+        "synonyms": ["not on your life", "not on my life", "not on my mothers life", "not on your nelly", "that is out of the question", "that's out of the question"]
+    }, {
+        "value": "not in a million years",
+        "synonyms": ["not in a million years", "under no circumstances", "not in a life time", "that's out of the question"]
+    }, {
+        "value": "never",
+        "synonyms": ["never", "not for Joe"]
+    }, {
+        "value": "not a chance",
+        "synonyms": ["not a chance", "not a cat in hell's chance", "fat chance"]
+    }, {
+        "value": "go fish",
+        "synonyms": ["go fish"]
+    }, {
+        "value": "not this time",
+        "synonyms": ["not this time", "not now", "i can't this time", "i cannot this time", "maybe another time", "i’m not able to make it", "i’m not able to do it"]
+    }, {
+        "value": "not",
+        "synonyms": ["not", "unfortunately now", "i can't this time", "i cannot this time"]
+    }, {
+        "value": "not possible",
+        "synonyms": ["not possible", "it is not possiable", "it's not possiable", "it's not possiable at the moment"]
+    }, {
+        "value": "i wish i could",
+        "synonyms": ["i wish i could", "if only I could!", "it would be great if i could"]
+    }, {
+        "value": "i can't",
+        "synonyms": ["i can't", "i can not", "rats, i can't", "darn, i can't", "darn, i can not!", "rats! i can't"]
+    }, {
+        "value": "i’ll need to bow out.",
+        "synonyms": ["i’ll need to bow out", "i will need to bow out.", "i have to bow out.", "i need to bow out"]
+    },{
+        "value": "forget it",
+        "synonyms": ["forget it", "bah", "i have to bow out.", "i need to bow out"]
+    },{
+        "value": "yeah, but no!",
+        "synonyms": ["yeah, but no!", "yeah right", "whatever", "jokes", "as if"]
+    },{
+        "value": "don't be crazy",
+        "synonyms": ["dont be crazy", "are you crazy", "WTF", "what the fuck"]
+    }]
+}
